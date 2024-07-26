@@ -1,0 +1,72 @@
+{
+  "category": "handbag",
+  "brand": "coach",
+  "price": 100,
+  "offer": 20,
+  "manufacturer": "Manufacturer Name",
+  "colors": [
+    {
+      "colorCode": "#FFF00",
+      "colorName": "Red"
+    },
+    {
+      "colorCode": "#00FF00",
+      "colorName": "green"
+    }
+  ],
+  "inStock": 50,
+  "ifAvailable": true,
+  "mrp": 120,
+  "margin": 100,
+  "images": [
+    {
+      "imageId": "1",
+      "resolution": "1024x768",
+      "type": "jpeg",
+      "webLocation": "http://example.com/image1.jpg"
+    },
+    {
+      "imageId": "2",
+      "resolution": "800x600",
+      "type": "png",
+      "webLocation": "http://example.com/image2.png"
+    }
+  ]
+}
+
+
+{
+  "category": "handbag",
+  "brand": "MK",
+  "price": 100,
+  "offer": 20,
+  "manufacturer": "Manufacturer Name",
+  "colors": [
+    {
+      "colorCode": "#FFFFFF",
+      "colorName": "White"
+    },
+    {
+      "colorCode": "#000000",
+      "colorName": "Black"
+    }
+  ],
+  "inStock": 50,
+  "ifAvailable": true,
+  "mrp": 120,
+  "margin": 100,
+  "images": [
+    {
+      "imageId": "1",
+      "resolution": "1024x768",
+      "type": "jpeg",
+      "webLocation": "http://example.com/image1.jpg"
+    },
+    {
+      "imageId": "2",
+      "resolution": "800x600",
+      "type": "png",
+      "webLocation": "http://example.com/image2.png"
+    }
+  ]
+}
