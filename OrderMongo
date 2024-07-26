@@ -1,0 +1,58 @@
+
+{
+  "dateAndTime": "2023-07-12T12:00:00",
+  "checkoutProducts": [
+    {
+      "productId": "prod1",
+      "quantity": 2,
+      "price": 50
+    },
+    {
+      "productId": "prod2",
+      "quantity": 1,
+      "price": 30
+    }
+  ],
+  "orderValue": 130,
+  "userId": "user123",
+  "shippingDetails": {
+    "status": "Shipped",
+    "dateAndTime": "2023-07-12T12:00:00",
+    "shippedBy": "John Doe",
+    "shippedThru": "DHL",
+    "courierTrackingId": "TRACK123"
+  }
+}
+
+
+
+/** 
+* Paste one or more documents here
+*/
+{
+  "OrderId": "12345",
+  "DateAndTime": "2024-07-12T10:30:00Z",
+  "List": [
+    {
+      "productId": "p1",
+      "quantity": 2,
+      "price": 100
+    },
+    {
+      "productId": "p2",
+      "quantity": 1,
+      "price": 50
+    }
+  ],
+  "OrderValue": 250,
+  "UserId": "user123",
+  "ShippingDetails": {
+    "Shipping_id": "shipping123",
+    "Order_id": "12345",
+    "Status": "Shipped",
+    "DateAndTime": "2024-07-12T11:00:00Z",
+    "ShippedBy": "Warehouse A",
+    "ShippedThru": "Courier XYZ",
+    "Courier_tracking_id": "track123"
+  }
+}
