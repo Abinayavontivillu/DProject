@@ -1,0 +1,25 @@
+{
+  "_id": {
+    "$oid": "66bcbcd6e1685949a21f0ffd"
+  },
+  "CartId": "cart12345",
+  "UserId": "user67890",
+  "Items": [
+    {
+      "ProductId": "prod001",
+      "Quantity": 2,
+      "Price": 25.99,
+      "TotalPrice": 51.98
+    },
+    {
+      "ProductId": "prod002",
+      "Quantity": 1,
+      "Price": 15.49,
+      "TotalPrice": 15.49
+    }
+  ],
+  "CartTotal": 67.47,
+  "CreatedAt": "2024-08-14T12:00:00Z",
+  "UpdatedAt": "2024-08-14T12:15:00Z",
+  "Status": "Active"
+}
