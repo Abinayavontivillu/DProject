@@ -23,3 +23,28 @@
   "UpdatedAt": "2024-08-14T12:15:00Z",
   "Status": "Active"
 }
+{
+  "_id": {
+    "$oid": "66bcbd12e1685949a21f0fff"
+  },
+  "CartId": "cart12345",
+  "UserId": "user67890",
+  "Items": [
+    {
+      "ProductId": "prod001",
+      "Quantity": 2,
+      "Price": 2000,
+      "TotalPrice": 51.98
+    },
+    {
+      "ProductId": "prod002",
+      "Quantity": 4,
+      "Price": 1000,
+      "TotalPrice": 15.49
+    }
+  ],
+  "CartTotal": 3000,
+  "CreatedAt": "2024-08-14T12:00:00Z",
+  "UpdatedAt": "2024-08-14T12:15:00Z",
+  "Status": "Active"
+}
